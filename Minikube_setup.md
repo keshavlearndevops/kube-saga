@@ -10,11 +10,11 @@ This tutorial will give you step by step instructions for Minikube installation.
 
   ---
 
-  ## Step 1: Update the System Packages
+## Step 1: Update the System Packages
 
- Update your packages to the latest dependencies for better performance and upgraded features or bug fixes.
+Update your packages to the latest dependencies for better performance and upgraded features or bug fixes.
 
- ```bash
+```bash
 sudo apt update -y
 ```
 
