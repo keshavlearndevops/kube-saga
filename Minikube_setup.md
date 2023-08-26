@@ -140,3 +140,6 @@ minikube delete
 ---
 
 You've successfully installed Minikube on Ubuntu, and you can now start practising k8s, deploy pods or anything you like to do with it.
+
+---
+---
