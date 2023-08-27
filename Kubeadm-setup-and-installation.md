@@ -11,7 +11,7 @@ This tutorial will help you to setup the Kubernetes Cluster using the Kubeadm
 
 ---
 
-## Commomn commands for Master and Worker Node
+## Common commands for Master and Worker Node
 
 Run the below commands on both ***Master*** and ***Worker*** Node for intial setup of kubeadm
 
